@@ -1,6 +1,6 @@
 == Version 0.1.0
 
-== Forked by Licong on Feb 22nd, 2012
+== Forked by Licong on Feb 22nd, 2012.
 
 == Welcome to Rails
 
